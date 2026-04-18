@@ -11,10 +11,4 @@ Feature List:
 - Looped Background Music with Play/Pause Button
 - Level Completion Sound Effect
  
-Grading Shortcuts:
-0: Menu Screen
-1: Level 1
-2: Level 2
-3: Level 3
-4: Win Screen
-5: Lose Screen (hard mode)
+* requires downloading cmu_graphics library which may cause some difficulties. developed solely with and runs natively on CMU CS Academy's built-in IDE *
